@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1446667744 source:g:\删除\a\main.cpp
+	<iostream>
+
+1553078443 source:g:\删除\a\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+
+1553078419 g:\删除\a\gradebook.h
+	<iostream>
+	<string>
+
+1553078443 source:d:\qq文件\a\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+
+1553078419 d:\qq文件\a\gradebook.h
+	<iostream>
+	<string>
+
+1553096274 source:d:\qq文件\a\main.cpp
+	<iostream>
+	"GradeBook.h"
+
+1553078443 source:d:\codeblocks\a\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+
+1553078419 d:\codeblocks\a\gradebook.h
+	<iostream>
+	<string>
+
+1553265410 source:d:\codeblocks\a\main.cpp
+	<iostream>
+	"GradeBook.h"
+

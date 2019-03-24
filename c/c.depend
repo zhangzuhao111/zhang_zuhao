@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553418214 source:d:\codeblocks\c\main.cpp
+	<iostream>
+	"Employee.h"
+
+1553418281 d:\codeblocks\c\employee.h
+	<string>
+
+1553418443 source:d:\codeblocks\c\employee.cpp
+	<iostream>
+	"Employee.h"
+
