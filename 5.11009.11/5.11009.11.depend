@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557540454 source:d:\codeblocks\5.11009.11\main.cpp
+	<iostream>
+	<iomanip>
+	"Rectangle.h"
+
+1557540472 d:\codeblocks\5.11009.11\rectangle.h
+
+1557540454 source:d:\codeblocks\5.11009.11\rectangle.cpp
+	"Rectangle.h"
+
